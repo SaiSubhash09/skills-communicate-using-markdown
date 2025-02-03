@@ -10,6 +10,9 @@ Intialized empty git repository in /users/skills/Projects/recipe-repository/.git
 var x = "Hello_World";
 ```
 
+- [ ] - Turn on GitHub Pages
+- [ ] - Outline my portfolio
+- [ ] - Introduce myself to the world
 
 ![Image of Yuktocat](https://octodex.github.com/images/yaktocat.png)
 
